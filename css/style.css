@@ -454,14 +454,18 @@ a.icon {
 }
 
 #switch-lang{
+
+
+}
+.navbtn{
   border: none;
   background-color: white;
   font-size: 1.3em;
-  margin-right: 2%;
+  margin-right: 10px;
   overflow: visible;
   text-overflow: "";
   padding-top: 10px;
-
+  height: 25px;
 }
 
 /* Portfolio section styles
